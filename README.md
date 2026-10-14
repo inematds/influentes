@@ -1,14 +1,14 @@
-# infleuntes — Influenciadores virtuais e IA
+# influentes — Influenciadores virtuais e IA
 
 **[Português](README.md) · [English](README.en.md) · [Español](README.es.md)**
 
-[![Crie um personagem](guia/assets/banner.jpg)](https://inematds.github.io/infleuntes/guia/)
+[![Crie um personagem](guia/assets/banner.jpg)](https://inematds.github.io/influentes/guia/)
 
 ## O que é
 
-O infleuntes é um guia de pesquisa sobre influenciadores virtuais e personagens feitos com IA. Serve para quem cria conteúdo e quer desenvolver uma identidade que o público reconheça e tenha motivo para acompanhar. Reúne doze referências, compara sinais de continuidade e perda de força e oferece uma ficha prática de personagem. É gratuito: basta ler, abrir as fontes e fazer o exercício.
+O influentes é um guia de pesquisa sobre influenciadores virtuais e personagens feitos com IA. Serve para quem cria conteúdo e quer desenvolver uma identidade que o público reconheça e tenha motivo para acompanhar. Reúne doze referências, compara sinais de continuidade e perda de força e oferece uma ficha prática de personagem. É gratuito: basta ler, abrir as fontes e fazer o exercício.
 
-**[Abrir o guia](https://inematds.github.io/infleuntes/guia/)**
+**[Abrir o guia](https://inematds.github.io/influentes/guia/)**
 
 ## O que você encontra
 
@@ -29,4 +29,4 @@ Revisão: **14/10/2026**. Métricas de terceiros são snapshots aproximados, nã
 
 Página estática em `guia/`, com versões `en/` e `es/`. GitHub Pages publica pela ação `.github/workflows/pages.yml`. Sem instalação para ler.
 
-Versão **1.0.0** · [INEMA.CLUB](https://inema.club)
+Versão **1.0.1** · [INEMA.CLUB](https://inema.club)

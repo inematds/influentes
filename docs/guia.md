@@ -167,7 +167,7 @@ Hipótese de parceria ou produto coerente:
 
 **Exemplo fictício:** Bia, uma apresentadora virtual que ajuda adultos a entender tecnologia com situações do cotidiano. Sua marca é o humor paciente, um figurino reconhecível e demonstrações curtas. Um quadro recorrente acompanha a mesma tarefa em três etapas: dúvida, tentativa e resultado. O teste mede se as pessoas entendem a explicação e pedem o próximo episódio. Não é um caso de sucesso real nem promessa de receita.
 
-**Para discussão no INEMA.VIDEOS:** depois de estudar os casos, qual parte do seu personagem precisa mudar: a aparência, a história, o público ou a razão para acompanhá-lo? O material original menciona “VIP → Progress”; essa dinâmica foi preservada no arquivo original, mas não é requisito para usar este guia aberto.
+**Para discussão no INEMA.VIDEOS e INEMA.AVATARES:** depois de estudar os casos, qual parte do seu personagem precisa mudar: a aparência, a história, o público ou a razão para acompanhá-lo? O material original menciona “VIP → Progress”; essa dinâmica foi preservada no arquivo original, mas não é requisito para usar este guia aberto.
 
 ## Como atualizar a análise sem cair no hype
 
